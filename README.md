@@ -115,7 +115,7 @@ https://weather-togather.netlify.app/
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.sattout.ite@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-omar.1s-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/594543803097022464)
+[![Discord](https://discord.com/users/594543803097022464)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar.1.s)
 
