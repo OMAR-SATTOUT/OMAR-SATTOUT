@@ -14,7 +14,7 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ## 🛠️ Skills & Tools
 
-![Development Tools](https://skillicons.dev/icons?i=git,github,vite,redux&perline=4)
+![Development Tools](https://skillicons.dev/icons?i=git,github,vite,redux)
 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
