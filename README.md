@@ -116,8 +116,10 @@ https://weather-togather.netlify.app/
 [![Email](https://img.icons8.com/fluency/48/gmail.png)](mailto:omar.sattout.ite@gmail.com)&nbsp;
 [![Discord](https://img.icons8.com/fluency/48/discord-logo.png)](https://discord.com/users/594543803097022464)&nbsp;
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/omar.1.s)&nbsp;
-[![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/share/1PzRgs9Apj/)&nbsp;
 [![Telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/OMAR_SATTOUT)
+[![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://www.youtube.com/channel/UCiZ5uQ2mIvhVJ7ltanzmNpg)
+[![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/share/1PzRgs9Apj/)&nbsp;
+
 
 ---
 
