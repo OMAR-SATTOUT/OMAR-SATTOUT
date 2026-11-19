@@ -113,15 +113,11 @@ https://weather-togather.netlify.app/
 
 ## 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.sattout.ite@gmail.com)
-
-[![Discord](https://img.shields.io/badge/Discord-omar.1s-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/594543803097022464)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar.1.s)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1PzRgs9Apj/)
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OMAR_SATTOUT)
+[![Email](https://img.icons8.com/fluency/48/gmail.png)](mailto:omar.sattout.ite@gmail.com)&nbsp;
+[![Discord](https://img.icons8.com/fluency/48/discord-logo.png)](https://discord.com/users/594543803097022464)&nbsp;
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/omar.1.s)&nbsp;
+[![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/share/1PzRgs9Apj/)&nbsp;
+[![Telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/OMAR_SATTOUT)
 
 ---
 
