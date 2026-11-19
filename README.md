@@ -10,7 +10,7 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ## 🚀 Tech Stack
 
-<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,py,materialui,bootstrap&perline=5](https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,py,materialui,bootstrap\&perline=5)" alt="Tech Stack" /> \</p>
+<p align="left"><img src="[https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,py,materialui,bootstrap&perline=5](https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,py,materialui,bootstrap\&perline=5)" alt="Tech Stack" /> </p>
 
 ## 🛠️ Skills & Tools
 
