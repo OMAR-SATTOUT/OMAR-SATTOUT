@@ -35,6 +35,16 @@ I'm continuously improving my skills and expanding my knowledge to become a well
 
 ---
 
+## 🏢 Training Experience
+
+### QA Trainee – Syriatel Telecommunications
+
+Completed a two-month training program at **Syriatel Telecommunications, Syria**, as a Quality Assurance (QA) trainee in the Testing Department.
+
+Received a certificate of completion upon successfully completing the training program.
+
+---
+
 ## 💻 Featured Projects
 
 ### ⭐ Social Media Web Application
