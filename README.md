@@ -10,13 +10,13 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ## 🚀 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,cpp,cs,py,materialui,bootstrap,postman)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,materialui,bootstrap,redux)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ## 🛠️ Skills & Tools
 
-![Development Tools](https://skillicons.dev/icons?i=git,github,vite,redux)
+![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,git,github,vite,postman)
 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ### Core Concepts
 
