@@ -15,7 +15,7 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ## 🛠️ Skills & Tools
 
-![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,SQL,git,github,vite,postman,npm,netlify)
+![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,Sql,git,github,vite,postman,npm,netlify)
 
 
 ### Core Concepts
