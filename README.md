@@ -58,7 +58,7 @@ A social media web application built using vanilla JavaScript, HTML, and CSS.
 
 *Note: The backend and API were provided by the course instructor.*
 
-https://social-media-sy.netlify.app/
+[Link](https://social-media-sy.netlify.app/)
 
 ### ⭐ Banking Management System (C++)
 
