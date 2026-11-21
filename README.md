@@ -8,14 +8,18 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ---
 
+## 🚀 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,materialui,redux)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+
+## 🛠️ Skills & Tools
+
+![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,Sql,git,github,vite,postman,npm,netlify)
+
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,js)](https://skillicons.dev)
-
 ### 🎨 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,materialui)](https://skillicons.dev)
-
 - React Router
 - Context API
 - React Hooks
@@ -31,8 +35,6 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 - Backend Development with C# *(Currently Deepening)*
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
 - Microsoft SQL Server
 - MySQL
 - SQL
@@ -50,8 +52,6 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 - Debugging & Software Testing
 
 ### 🔧 Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,npm)](https://skillicons.dev)
-
 - Git & GitHub
 - GitHub Desktop
 - Visual Studio Code
