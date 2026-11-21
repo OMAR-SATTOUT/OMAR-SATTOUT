@@ -15,7 +15,7 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ## 🛠️ Skills & Tools
 
-![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,mySql,git,github,vite,postman,npm,netlify&perline=7)
+![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,mysql,git,github,vite,postman,npm,netlify&perline=7)
 
 ## 🛠️ Technical Skills
 
@@ -53,13 +53,11 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ### 🔧 Tools & Technologies
 - Git & GitHub
-- GitHub Desktop
-- Visual Studio Code
 - Postman
 - Browser Developer Tools
 - Terminal / Command Line
 - Vite & npm
-- Netlify & Vercel
+- Netlify
 
 ---
 
