@@ -93,7 +93,6 @@ A social media web application built using vanilla JavaScript, HTML, and CSS.
 
 *Note: The backend and API were provided by the course instructor.*
 
-[Visit Link ↖️](https://social-media-sy.netlify.app/)
 
 ### ⭐ Banking Management System (C++)
 
@@ -113,7 +112,6 @@ A task management application built using React.
 - Developed with React.js.
 - Provides an interactive interface for managing tasks.
 
-[Visit Link ↖️](https://todo-list-reactjs-s1.netlify.app/)
 
 ### 🕌 Syrian Prayer Times Application
 
@@ -123,7 +121,6 @@ A web application that displays prayer times for cities and governorates across 
 - Integrated with the Aladhan API using Axios.
 - Used Vite as the development and build tool.
 
-[Visit Link ↖️](https://prayertimes-sy.netlify.app/)
 
 ### 🌤️ Damascus Weather Application
 
@@ -133,7 +130,6 @@ A weather application built using React to display weather information for Damas
 - Integrated with the OpenWeather API.
 - Used Axios to fetch weather data.
 
-[Visit Link ↖️](https://weather-togather.netlify.app/)
 
 ---
 
