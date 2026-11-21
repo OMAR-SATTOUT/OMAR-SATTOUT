@@ -8,21 +8,58 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,materialui,redux&perline=7)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,js)](https://skillicons.dev)
 
-## 🛠️ Skills & Tools
+### 🎨 Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,materialui)](https://skillicons.dev)
 
-![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,mysql,git,github,vite,postman,npm,netlify&perline=7)
+- React Router
+- Context API
+- React Hooks
+- Axios
+- Responsive Web Design
+- REST API Integration
 
+### ⚙️ Backend Development
+- C# Backend Fundamentals
+- Server-Side Programming Concepts
+- REST APIs
+- Authentication & Authorization
+- Backend Development with C# *(Currently Deepening)*
 
-### Core Concepts
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-00599C?style=for-the-badge)
-![State Management](https://img.shields.io/badge/State_Management-6C63FF?style=for-the-badge)
-![REST API Integration](https://img.shields.io/badge/REST_API_Integration-009688?style=for-the-badge)
+- Microsoft SQL Server
+- MySQL
+- SQL
+- Relational Database Concepts
+- Database Design
+- CRUD Operations
+
+### 🧠 Computer Science & Software Engineering
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Programming Fundamentals
+- Clean Code
+- Software Development Life Cycle (SDLC)
+- Requirements Analysis
+- Debugging & Software Testing
+
+### 🔧 Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,npm)](https://skillicons.dev)
+
+- Git & GitHub
+- GitHub Desktop
+- Visual Studio Code
+- Postman
+- Browser Developer Tools
+- Terminal / Command Line
+- Vite & npm
+- Netlify & Vercel
 
 ---
 
