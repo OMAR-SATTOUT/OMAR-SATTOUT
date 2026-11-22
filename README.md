@@ -17,8 +17,6 @@ My goal is to become a **Full-Stack Web Developer**, build scalable applications
 
 ![Development Tools](https://skillicons.dev/icons?i=cpp,cs,py,mysql,git,github,vite,postman,npm,netlify&perline=7)
 
-## 🛠️ Technical Skills
-
 ### 🎨 Frontend Development
 - React Router
 - Context API
