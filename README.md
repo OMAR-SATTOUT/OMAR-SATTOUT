@@ -146,9 +146,9 @@ A weather application built using React to display weather information for Damas
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/omar-sattout)&nbsp;
 [![WhatsApp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/qr/PXUSAGW3W6NUM1)&nbsp;
 [![Discord](https://img.icons8.com/fluency/48/discord-logo.png)](https://discord.com/users/594543803097022464)&nbsp;
+[![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/share/1PzRgs9Apj/)&nbsp;
 [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/omar.1.s)&nbsp;
 [![Telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/OMAR_SATTOUT)
-[![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/share/1PzRgs9Apj/)&nbsp;
 
 
 ---
